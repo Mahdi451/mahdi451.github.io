@@ -1,0 +1,39 @@
+root {
+    display: block;
+}
+
+.centered {
+    text-align: center;
+}
+
+.sanSerif {
+    font-family: sans-serif;
+}
+ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dddddd;
+}
+
+li {
+    float: left;
+    display: inline;
+} 
+
+li a {
+    display: block;
+    text-align: center;
+    padding: 10px 14px;
+}
+
+.widget {
+
+}
+
+.vistitle {
+    text-align: center;
+    border: 4px solid blue;
+}
