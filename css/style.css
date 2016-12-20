@@ -189,8 +189,8 @@ b {
 }
 
 .abouthero{
-    padding-top: 75px;
-    width: 180px;
+    padding-top: 55px;
+    width: 400px;
     display: block;
     margin: 0 auto;
     clear: right;
@@ -279,11 +279,15 @@ a.aboutlink:hover{
 }
 
 .img-uw{
-    width: 200px;
+    width: 150px;
 }
 
 .img-prog{
-    width: 248px;
+    width: 250px;
+}
+
+.img-progress{
+    width: 350px;
 }
 
 .about-img-container{
