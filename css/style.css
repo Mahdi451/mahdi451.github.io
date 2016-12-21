@@ -182,7 +182,7 @@ b {
  * ----------------- */
 
 #about{
-    background-color: #164775;
+    background-color: #164b75;
     display: block;
     width: 100%;
     min-height: 100%;
@@ -522,7 +522,7 @@ a.aboutlink:hover{
     font-family: "Open Sans", sans-serif;
     font-weight: 200;
     color: #dadada;
-    font-size: 16.5px;
+    font-size: 25.5px;
     line-height: 1.65em;
 }
 
