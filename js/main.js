@@ -74,7 +74,7 @@ function photoResize() {
 }
 
 $(".rotate").textrotator({
-  animation: "flipUp",
+  animation: "fade",
   separator: ",",
-  speed: 2400
+  speed: 2000
 });
