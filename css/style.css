@@ -239,8 +239,8 @@ b {
     color: #f0f0ef;
     font-family: "Open Sans", sans-serif;
     text-align: center;
-    font-weight: 300;
-    padding-bottom: 7px;
+    font-weight: 400;
+    padding-bottom: 10px;
 }
 
 .aboutcontent{
@@ -291,42 +291,57 @@ a.aboutlink:hover{
 }
 
 .about-img-container{
-    height: 125px;
+    height: 165px;
+    display:block;
+    margin:auto;
+}
+
+.about-img-container1{
+    height: 145px;
     display:block;
     margin:auto;
 }
 
 .about-photo-container{
     max-width: 380px;
-    padding-top: 14px;
+    padding-top: 0px;
+}
+
+.img-circle {
+    padding-top: 35px;
+    border-radius: 50%;
+    width: 400px;
+    display: block;
+    margin: auto;
+    clear: right;
 }
 
 .img-photo1{
-    width: 115px;
+    width: 180px;
     -ms-transform: rotate(-10deg); /* IE 9 */
     -webkit-transform: rotate(-10deg); /* Chrome, Safari, Opera */
     transform: rotate(-10deg);
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.35);
+    box-shadow: 15px 15px 15px rgba(0,0,0,0.35);
     z-index: 0;
     left: 22px;
 }
 
 .img-photo2{
-    width: 115px;
-    -ms-transform: rotate(-3deg); /* IE 9 */
-    -webkit-transform: rotate(-3deg); /* Chrome, Safari, Opera */
-    transform: rotate(-3deg);
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.35);
+    width: 180px;
+    -ms-transform: rotate(15deg); /* IE 9 */
+    -webkit-transform: rotate(15deg); /* Chrome, Safari, Opera */
+    transform: rotate(15deg);
+    box-shadow: 15px 15px 15px rgba(0,0,0,0.35);
     left: -1px;
     z-index: 1;
 }
 
 .img-photo3{
-    width: 115px;
+    width: 140px;
     -ms-transform: rotate(2deg); /* IE 9 */
     -webkit-transform: rotate(2deg); /* Chrome, Safari, Opera */
     transform: rotate(2deg);
-    box-shadow: 5px 5px 5px rgba(0,0,0,0.35);
+    box-shadow: 15px 15px 15px rgba(0,0,0,0.35);
     left: -15px;
     top: -8px;
     z-index: 0;
