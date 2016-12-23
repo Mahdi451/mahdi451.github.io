@@ -78,3 +78,9 @@ $(".rotate").textrotator({
   separator: ",",
   speed: 2400
 });
+
+$(".spin").textrotator({
+  animation: "spin",
+  separator: ",",
+  speed: 2400
+});
