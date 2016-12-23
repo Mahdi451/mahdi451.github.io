@@ -72,9 +72,3 @@ function photoResize() {
       $(".img-photo3").css({"width":"92px"});
   }
 }
-
-$(".rotate").textrotator({
-  //animation: "",
-  separator: ",",
-  speed: 2400
-});
