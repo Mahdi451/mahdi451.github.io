@@ -74,7 +74,7 @@ function photoResize() {
 }
 
 $(".rotate").textrotator({
-  animation: "spin",
+  //animation: "",
   separator: ",",
   speed: 2400
 });
